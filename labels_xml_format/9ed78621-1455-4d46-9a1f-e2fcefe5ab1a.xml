@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>9ed78621-1455-4d46-9a1f-e2fcefe5ab1a.jpg</filename>
+	<path>/my-project-name/9ed78621-1455-4d46-9a1f-e2fcefe5ab1a.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>hydrant</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>371</ymin>
+			<xmax>258</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
